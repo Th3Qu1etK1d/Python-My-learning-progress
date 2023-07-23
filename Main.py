@@ -1,1 +1,1 @@
-print("I will be rich")
+
