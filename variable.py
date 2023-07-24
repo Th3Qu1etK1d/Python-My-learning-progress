@@ -66,6 +66,11 @@
 #print(name.replace("i" , "e")
 #print(name*99999)
 
+#name = "kacy"
+#job = "Cybersécurity"
+#age = 32
+#salary = 120000
 
+#print("Hey "+ name + " "+ "are you here for"+ " "+ job + ' '+ "job ?" " "+ "You'll start tomorow with a"+ " "+ str(salary)+"$"+ " "+ "Btw i'm "+ str(age))
 
 
